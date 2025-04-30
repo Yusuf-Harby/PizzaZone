@@ -25,4 +25,4 @@ Screenshots of the UI are available in the `/screenshots` folder.
 5. Build and run!
 
 ## 📜 License
-This project was created by the **Java Team** for educational purposes. You are free to learn from it, but not allowed to use it commercially without permission.
+This project was created by **Jaffa Team** for educational purposes. You are free to learn from it, but not allowed to use it commercially without permission.
